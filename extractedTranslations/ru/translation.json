@@ -1,4 +1,13 @@
 {
+  "Lorem ipsum dolor sit amet consectetur adipisicing elit": {
+    " Natus ducimus in consectetur, voluptatem ad, reiciendis quasi itaque, maxime ipsa deserunt corporis architecto ipsum impedit modi eaque exercitationem nulla iusto": {
+      " Ullam": {
+        "": ""
+      }
+    }
+  },
+  "decrement": "decrement",
+  "increment": "increment",
   "throw error": "throw error",
   "Войти": "Войти",
   "Главная": "Главная",
@@ -9,5 +18,7 @@
   "Переключить": "Переключить",
   "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
   "Страница не найдена": "Страница не найдена",
+  "Увеличить": "Увеличить",
+  "Уменьшить": "Уменьшить",
   "Язык": "Язык"
 }
