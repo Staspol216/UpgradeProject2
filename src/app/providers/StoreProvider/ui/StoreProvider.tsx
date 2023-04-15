@@ -13,7 +13,7 @@ export const StoreProvider: FC<StoreProviderProps> = ({ children, initialState }
     const store = createReduxStore(initialState as StateSchema);
     return (
         <Provider store={store}>
-            { children}
+            { children }
         </Provider>
     );
 };
