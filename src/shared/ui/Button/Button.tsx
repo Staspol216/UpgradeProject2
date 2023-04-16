@@ -39,6 +39,8 @@ export const Button: FC<ButtonProps> = (props) => {
         [cls[size]]: true,
     };
 
+    console.log('button');
+
     return (
         <button
             type="button"

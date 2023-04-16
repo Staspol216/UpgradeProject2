@@ -14,5 +14,8 @@
   "Короткий язык": "En",
   "Войти": "Sign In",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Sign in": "Sign in",
+  "Enter username": "Enter username",
+  "Enter password": "Enter password"
 }

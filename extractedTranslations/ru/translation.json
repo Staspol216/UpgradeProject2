@@ -1,4 +1,6 @@
 {
+  "Enter password": "Enter password",
+  "Enter username": "Enter username",
   "Lorem ipsum dolor sit amet consectetur adipisicing elit": {
     " Natus ducimus in consectetur, voluptatem ad, reiciendis quasi itaque, maxime ipsa deserunt corporis architecto ipsum impedit modi eaque exercitationem nulla iusto": {
       " Ullam": {
@@ -6,6 +8,7 @@
       }
     }
   },
+  "Sign in": "Sign in",
   "decrement": "decrement",
   "increment": "increment",
   "throw error": "throw error",
