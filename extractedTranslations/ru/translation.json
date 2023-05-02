@@ -1,5 +1,6 @@
 {
   "Authorization form": "Authorization form",
+  "Edit": "Edit",
   "Enter password": "Enter password",
   "Enter username": "Enter username",
   "Log out": "Log out",
@@ -11,11 +12,14 @@
     }
   },
   "PROFILE PAGE": "PROFILE PAGE",
+  "Profile": "Profile",
   "Sign in": "Sign in",
   "You entered an incorrect username or password": "You entered an incorrect username or password",
   "decrement": "decrement",
   "increment": "increment",
   "throw error": "throw error",
+  "Ваша фамилия": "Ваша фамилия",
+  "Ваше имя": "Ваше имя",
   "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",
