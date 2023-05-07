@@ -1,4 +1,16 @@
 {
   "Edit": "Edit",
-  "Profile": "Profile"
+  "Profile": "Profile",
+  "Please try refreshing the page": "Please try refreshing the page",
+  "There was an error on the profile page": "There was an error on the profile page",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "Your name": "Your name",
+  "Your lastname": "Your lastname",
+  "Your city": "Your city",
+  "Your age": "Your age",
+  "Enter username": "Enter username",
+  "Paste avatar link": "Paste avatar link",
+  "Specify currency": "Specify currency",
+    "Specify country": "Specify country"
 }

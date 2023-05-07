@@ -1,27 +1,43 @@
 {
-    "posts": [
-      { "id": "1", "title": "json-serve 1", "author": "typicode" },
-      { "id": "1", "title": "json-server 2", "author": "typicode" },
-      { "id": "1", "title": "json-server 3", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": "1", "body": "some comment", "postId": "1" }
-    ],
-    "users": [
-      {
-        "id": "1",
-        "username": "admin",
-        "password": "123"
-      }
-    ],
-    "profile": {
-      "first": "Стас",
-      "lastname": "Полищук",
-      "age": 22,
-      "currency": "RUB",
-      "country": "Russia",
-      "city": "Sant-Petersburg",
-      "username": "admin",
-      "avatar": "https://pic.rutubelist.ru/user/3b/27/3b2758ad5492a76b578f7ee072e4e894.jpg"
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-serve 1",
+      "author": "typicode"
+    },
+    {
+      "id": "1",
+      "title": "json-server 2",
+      "author": "typicode"
+    },
+    {
+      "id": "1",
+      "title": "json-server 3",
+      "author": "typicode"
     }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "profile": {
+    "first": "Стас",
+    "lastname": "Полищукк",
+    "age": 22,
+    "currency": "EUR",
+    "country": "Russia",
+    "city": "Sant-Petersburg",
+    "username": "admin",
+    "avatar": "https://media.istockphoto.com/id/912299634/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9-%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpg?s=612x612&w=0&k=20&c=Gq_59L6BS45A3yUFBBNTWW7h-EmKbLmaWwM-RWG8i5A="
   }
+}

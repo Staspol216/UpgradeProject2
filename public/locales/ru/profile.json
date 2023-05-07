@@ -1,4 +1,16 @@
 {
-    "Profile": "Профиль",
-    "Edit": "Редактировать"
+  "Profile": "Профиль",
+  "Edit": "Редактировать",
+  "There was an error on the profile page": "Призошла ошибка на странице профиля",
+  "Please try refreshing the page": "Пожалуйста, попробуйте обновить страницу",
+  "Cancel": "Отменить",
+  "Save": "Сохранить",
+  "Your name": "Ваше имя",
+  "Your lastname": "Ваша фамилия",
+  "Your city": "Город",
+  "Your age": "Возраст",
+  "Enter username": "Введите имя пользователя",
+  "Paste avatar link": "Вставте ссылку на аватар",
+  "Specify currency": "Укажите валюту",
+    "Specify country": "Укажите страну"
 }
