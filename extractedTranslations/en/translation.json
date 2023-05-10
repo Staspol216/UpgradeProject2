@@ -1,9 +1,14 @@
 {
+  "": "",
   "Authorization form": "",
   "Cancel": "Cancel",
+  "Data not specified": "Data not specified",
   "Edit": "Edit",
   "Enter password": "Enter password",
   "Enter username": "Enter username",
+  "First and last name are required": "First and last name are required",
+  "Incorrect age": "Incorrect age",
+  "Incorrect country": "Incorrect country",
   "Log out": "Log out",
   "Lorem ipsum dolor sit amet consectetur adipisicing elit": {
     " Natus ducimus in consectetur, voluptatem ad, reiciendis quasi itaque, maxime ipsa deserunt corporis architecto ipsum impedit modi eaque exercitationem nulla iusto": {
@@ -19,6 +24,7 @@
   "Please, try refreshing the page": "Please, try refreshing the page",
   "Profile": "Profile",
   "Save": "Save",
+  "Server error": "Server error",
   "Sign in": "Sign in",
   "Something went wrong": "Something went wrong",
   "Specify country": "Specify country",

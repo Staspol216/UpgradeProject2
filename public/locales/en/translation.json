@@ -8,8 +8,6 @@
   "Произошла непредвиденная ошибка": "An unexpected error has occurred",
   "Обновить страницу": "Reload page",
   "throw error": "throw error",
-  "Главная": "Main",
-  "О сайте": "About us",
   "Переключить": "Переключить",
   "Короткий язык": "En",
   "Войти": "Sign In",
@@ -20,5 +18,8 @@
   "Enter password": "Enter password",
   "Authorization form": "Authorization form",
   "Log out": "Log out",
-  "You entered an incorrect username or password": "You entered an incorrect username or password"
+  "You entered an incorrect username or password": "You entered an incorrect username or password",
+  "Main": "Main",
+  "About": "About us",
+  "Profile": "Profile"
 }
